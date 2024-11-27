@@ -4,7 +4,8 @@
 
 .cartList .webix_dataview_item,.cartList .webix_dataview_item.webix_selected
     {
-        background-color:rgba(0,0,0,0);border-color:rgba(0,0,0,0)
+        background-color:rgba(0,0,0,0);
+        border-color:rgba(0,0,0,0)
     }
     .cartList .webix_dataview_item .webix_dataview_inner_item
     {
@@ -21,21 +22,26 @@
         position:relative;
         border:1px solid #dadee0;
         -webkit-box-sizing:border-box;
-        box-sizing:border-box;height:100%}
+        box-sizing:border-box;
+        height:100%}
         
         .cartList .webix_dataview_item .overall_left{
             margin-right:12px}
             
 .cartList .webix_dataview_item .overall .itemImg{
     -webkit-box-sizing:border-box;
-    box-sizing:border-box;width:168px;
+    box-sizing:border-box;
+    width:168px;
     height:168px;
     background-position:50%;
     background-repeat:no-repeat;
-    background-size:cover;margin-bottom:6px}
+    background-size:cover;
+    margin-bottom:6px}
     
 .cartList .webix_dataview_item .overall .edit_item{
-    position:absolute;top:16px;right:16px}
+    position:absolute;
+    top:16px;
+    right:16px}
 
 .cartList .webix_dataview_item .overall .edit_item>i{
         color:#aaa;font-size:20px}
@@ -56,7 +62,10 @@
     height:15px}
 
 .cartBox{
-    background-color:#fff;border-width:1px;-webkit-box-sizing:border-box;box-sizing:border-box}
+    background-color:#fff;
+    border-width:1px;
+    -webkit-box-sizing:border-box;
+    box-sizing:border-box}
     
 .userCart .webix_template{
     display:-webkit-box;
